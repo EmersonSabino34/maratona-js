@@ -36,6 +36,7 @@ function somarArray(numeros) {
 function aplicarDesconto(valor, desconto) {
   return valor - (valor * desconto / 100);
 }
+
 function login(usuario, senha) {
   if (usuario === "admin" && senha === "1234") {
     return "Login autorizado";
