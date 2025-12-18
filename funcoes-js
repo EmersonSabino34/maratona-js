@@ -32,6 +32,7 @@ function somarArray(numeros) {
 
   return total;
 }
+
 function aplicarDesconto(valor, desconto) {
   return valor - (valor * desconto / 100);
 }
