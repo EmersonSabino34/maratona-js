@@ -8,6 +8,7 @@ function verificarIdade(idade) {
   return idade >= 18 ? "Maior de idade" : "Menor de idade";
 }
 
+
 const celsiusParaFahrenheit = (c) => (c * 9/5) + 32;
 
 function parOuImpar(numero) {
