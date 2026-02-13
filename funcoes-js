@@ -23,7 +23,6 @@ function media(n1, n2, n3) {
 function somarArray(numeros) {
   let total = 0;
 
-
   for (let num of numeros) {
     total += num;
   }
