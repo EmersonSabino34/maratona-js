@@ -143,7 +143,6 @@ function login(usuario, senha) {
   return "Acesso negado";
 }
 ```
-
 ---
 
 ## ▶️ Como Executar
