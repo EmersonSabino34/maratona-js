@@ -30,7 +30,6 @@ Projeto educativo focado na **prática de funções em JavaScript**, ideal para 
  ┣ 📄 index.js   # Exercícios resolvidos
  ┣ 📄 README.md  # Documentação do projeto
 ```
-
 ---
 
 ## 📝 Lista de Exercícios
