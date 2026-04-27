@@ -12,7 +12,6 @@ Projeto educativo focado na **prática de funções em JavaScript**, ideal para 
 * Resolver problemas comuns do dia a dia com JavaScript
 
 ---
-
 ## 🧠 Conceitos Abordados
 
 ✔ Funções tradicionais e Arrow Functions
