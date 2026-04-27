@@ -22,7 +22,6 @@ Projeto educativo focado na **prática de funções em JavaScript**, ideal para 
 ✔ Boas práticas de lógica
 
 ---
-
 ## 📂 Estrutura do Projeto
 
 ```
