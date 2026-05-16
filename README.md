@@ -1,5 +1,6 @@
 # 🧩 Tarefa de Funções em JavaScript
 
+
 Projeto educativo focado na **prática de funções em JavaScript**, ideal para quem está iniciando ou consolidando a base da linguagem. Os exercícios evoluem do **básico ao intermediário**, trabalhando lógica, parâmetros, retorno e manipulação de dados.
 
 ---
